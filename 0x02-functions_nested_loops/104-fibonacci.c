@@ -44,6 +44,7 @@ int main(void)
 		{
 			boolean = 0;
 		}
-		printf("\n");
 	}
+	printf("\n");
+	return (0);
 }
