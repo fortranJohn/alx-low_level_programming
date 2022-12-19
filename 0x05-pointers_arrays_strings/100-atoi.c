@@ -1,11 +1,12 @@
 #include "main.h"
-#include <stdio.h>
 
 /**
- * main - check the code for Holberton School students.
+ * _atoi - converts string to an integer.
+ * @s: Pointer to a character string.
  *
- * Return: Always 0.
+ * Return: void.
  */
+
 int main(void)
 {
 	int sign;
